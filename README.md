@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hey there! <img src="assets/gifs/blob-wave.gif" width="25"/>
 
-<!--
-**herixistech/herixistech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m [**Herixis**](Herixis), a programmer from Eastern Europe.
 
-Here are some ideas to get you started:
+I create programs and websites designed to improve the user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+But even though I create websites and programs, I still enjoy making games the most.
+
+The games and programs I create are mainly targeted at PC and Android.
+
+#### Fun Facts:
+
+* I love developing games.
+* **My vibe:** winter, fid
