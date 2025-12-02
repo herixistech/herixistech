@@ -11,4 +11,5 @@ The games and programs I create are mainly targeted at PC and Android.
 #### Fun Facts:
 
 * I love developing games.
-* **My vibe:** winter, fid
+* My favorite game is Hearts of Iron IV.
+* **My vibe:** winter, z-hub
